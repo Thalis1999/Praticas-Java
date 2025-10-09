@@ -4,8 +4,3 @@ Repositório dedicado à prática de algoritmos e resolução de exercícios em 
 📖 Sobre o Projeto
 Este projeto serve como um portfólio de práticas com a linguagem Java. Os exercícios aqui presentes foram resolvidos em plataformas de desafios de programação como HackerRank, LeetCode, e cursos como: Dev Dojo, Alura POO, Curso em vídeo, etc.
 
--Lógica de programação fundamental
--Estruturas de repetição (loops) e condicionais
--Manipulação de Strings e Arrays
--Estruturas de dados básicas
--Programação Orientada a Objetos (POO)
