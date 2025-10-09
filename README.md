@@ -1,0 +1,15 @@
+☕ PraticasJava
+Repositório dedicado à prática de algoritmos e resolução de exercícios em Java, com foco no aprimoramento da lógica de programação e no conhecimento da linguagem.
+
+📖 Sobre o Projeto
+Este projeto serve como um portfólio pessoal dos meus estudos e práticas com a linguagem Java. Os exercícios aqui presentes foram resolvidos em plataformas de desafios de programação como HackerRank, LeetCode, entre outras, e cobrem diversos tópicos, incluindo:
+
+Lógica de programação fundamental
+
+Estruturas de repetição (loops) e condicionais
+
+Manipulação de Strings e Arrays
+
+Estruturas de dados básicas
+
+Programação Orientada a Objetos (POO)
