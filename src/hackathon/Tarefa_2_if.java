@@ -1,4 +1,4 @@
-package Hackathon;
+package hackathon;
 
 import java.util.Scanner;
 
